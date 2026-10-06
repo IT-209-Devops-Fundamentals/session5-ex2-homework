@@ -1,0 +1,8 @@
+!.gitignore
+!README.md
+!auth.js
+temp.txt
+*.tmp
+.env
+Thumbs.db
+Desktop.ini
